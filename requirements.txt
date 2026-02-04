@@ -1,0 +1,19 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-dotenv==1.0.1
+requests==2.32.3
+pydantic==2.8.2
+sqlalchemy==2.0.32
+openai==1.40.0
+langdetect==1.0.9
+python-jose==3.3.0
+# NOTE: Use PBKDF2 hashing to avoid bcrypt backend/version issues on Windows.
+passlib==1.7.4
+PyJWT==2.10.1
+email-validator==2.3.0
+bcrypt==5.0.0
+dnspython==2.8.0
+pydantic-settings==2.4.0
+
+
+

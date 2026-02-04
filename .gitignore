@@ -1,0 +1,18 @@
+﻿# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+# Node (agar ho)
+node_modules/
+dist/
+build/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
